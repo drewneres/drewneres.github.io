@@ -10,5 +10,4 @@ O site ficou responsivo e com minhas experiências e conhecimentos na área de t
 
 - HTML
 - CSS
-- JavaScript
 - Git and Github
