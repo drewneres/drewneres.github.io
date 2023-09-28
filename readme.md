@@ -1,6 +1,6 @@
 ## Meu Portfólio
 
-O site ficou responsivo e com minhas experiências e conhecimentos na área de tecnologia
+Site do meu currículo online. Desenvolvido com HTML e CSS e abordando conceitos de responsividade.
 
 🔗 [Click here to access](https://drewneres.github.io)
 
